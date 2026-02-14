@@ -1,0 +1,19 @@
+{
+  "name": "buzzbot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "ethers": "6.11.0",
+    "viem": "2.7.6",
+    "@solana/web3.js": "1.89.1",
+    "bs58": "5.0.0"
+  }
+}

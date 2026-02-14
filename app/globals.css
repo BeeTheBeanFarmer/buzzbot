@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  background: #0a0a0a;
+  color: #fff;
+}
+
+input:focus, select:focus, button:focus {
+  outline: none;
+  border-color: #ffc800 !important;
+}
